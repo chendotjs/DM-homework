@@ -18,4 +18,4 @@
 6. 成绩评估, 分为Low, Medium, High.
 
 ### 具体数据
-json格式, 详见[data.json](file://./data.json)
+json格式, 详见[data.json](data.json)
