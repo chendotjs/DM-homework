@@ -1,0 +1,1058 @@
+[{
+  "TA_gender": "male",
+  "title": "Lecturer",
+  "semister": "Elective",
+  "category": "Regular",
+  "size": "Medium",
+  "performance": "Low"
+}, {
+  "TA_gender": "female",
+  "title": "Professor",
+  "semister": "Elective",
+  "category": "Regular",
+  "size": "Large",
+  "performance": "Low"
+}, {
+  "TA_gender": "male",
+  "title": "Lecturer",
+  "semister": "Elective",
+  "category": "Summer",
+  "size": "Medium",
+  "performance": "Low"
+}, {
+  "TA_gender": "male",
+  "title": "Lecturer",
+  "semister": "Compulsory",
+  "category": "Summer",
+  "size": "Small",
+  "performance": "Low"
+}, {
+  "TA_gender": "female",
+  "title": "Associate Professor",
+  "semister": "Elective",
+  "category": "Summer",
+  "size": "Medium",
+  "performance": "Low"
+}, {
+  "TA_gender": "female",
+  "title": "Lecturer",
+  "semister": "Elective",
+  "category": "Regular",
+  "size": "Large",
+  "performance": "Low"
+}, {
+  "TA_gender": "female",
+  "title": "Professor",
+  "semister": "Elective",
+  "category": "Summer",
+  "size": "Medium",
+  "performance": "Low"
+}, {
+  "TA_gender": "female",
+  "title": "Associate Professor",
+  "semister": "Elective",
+  "category": "Summer",
+  "size": "Small",
+  "performance": "Low"
+}, {
+  "TA_gender": "male",
+  "title": "Associate Professor",
+  "semister": "Elective",
+  "category": "Regular",
+  "size": "Medium",
+  "performance": "Low"
+}, {
+  "TA_gender": "female",
+  "title": "Professor",
+  "semister": "Elective",
+  "category": "Regular",
+  "size": "Large",
+  "performance": "Low"
+}, {
+  "TA_gender": "female",
+  "title": "Associate Professor",
+  "semister": "Compulsory",
+  "category": "Summer",
+  "size": "Small",
+  "performance": "Low"
+}, {
+  "TA_gender": "female",
+  "title": "Associate Professor",
+  "semister": "Elective",
+  "category": "Summer",
+  "size": "Small",
+  "performance": "Low"
+}, {
+  "TA_gender": "female",
+  "title": "Professor",
+  "semister": "Elective",
+  "category": "Summer",
+  "size": "Large",
+  "performance": "Low"
+}, {
+  "TA_gender": "female",
+  "title": "Professor",
+  "semister": "Elective",
+  "category": "Summer",
+  "size": "Small",
+  "performance": "Low"
+}, {
+  "TA_gender": "female",
+  "title": "Professor",
+  "semister": "Elective",
+  "category": "Summer",
+  "size": "Small",
+  "performance": "High"
+}, {
+  "TA_gender": "female",
+  "title": "Professor",
+  "semister": "Elective",
+  "category": "Summer",
+  "size": "Medium",
+  "performance": "High"
+}, {
+  "TA_gender": "female",
+  "title": "Associate Professor",
+  "semister": "Elective",
+  "category": "Summer",
+  "size": "Medium",
+  "performance": "High"
+}, {
+  "TA_gender": "female",
+  "title": "Associate Professor",
+  "semister": "Elective",
+  "category": "Summer",
+  "size": "Medium",
+  "performance": "High"
+}, {
+  "TA_gender": "female",
+  "title": "Associate Professor",
+  "semister": "Elective",
+  "category": "Regular",
+  "size": "Medium",
+  "performance": "High"
+}, {
+  "TA_gender": "female",
+  "title": "Associate Professor",
+  "semister": "Elective",
+  "category": "Summer",
+  "size": "Small",
+  "performance": "High"
+}, {
+  "TA_gender": "female",
+  "title": "Associate Professor",
+  "semister": "Elective",
+  "category": "Summer",
+  "size": "Small",
+  "performance": "High"
+}, {
+  "TA_gender": "female",
+  "title": "Associate Professor",
+  "semister": "Elective",
+  "category": "Summer",
+  "size": "Large",
+  "performance": "High"
+}, {
+  "TA_gender": "female",
+  "title": "Lecturer",
+  "semister": "Elective",
+  "category": "Summer",
+  "size": "Medium",
+  "performance": "High"
+}, {
+  "TA_gender": "female",
+  "title": "Associate Professor",
+  "semister": "Elective",
+  "category": "Regular",
+  "size": "Medium",
+  "performance": "High"
+}, {
+  "TA_gender": "female",
+  "title": "Professor",
+  "semister": "Elective",
+  "category": "Summer",
+  "size": "Medium",
+  "performance": "High"
+}, {
+  "TA_gender": "female",
+  "title": "Associate Professor",
+  "semister": "Elective",
+  "category": "Summer",
+  "size": "Medium",
+  "performance": "High"
+}, {
+  "TA_gender": "female",
+  "title": "Lecturer",
+  "semister": "Elective",
+  "category": "Summer",
+  "size": "Small",
+  "performance": "High"
+}, {
+  "TA_gender": "female",
+  "title": "Lecturer",
+  "semister": "Elective",
+  "category": "Summer",
+  "size": "Large",
+  "performance": "High"
+}, {
+  "TA_gender": "female",
+  "title": "Professor",
+  "semister": "Compulsory",
+  "category": "Summer",
+  "size": "Small",
+  "performance": "Medium"
+}, {
+  "TA_gender": "female",
+  "title": "Associate Professor",
+  "semister": "Elective",
+  "category": "Summer",
+  "size": "Medium",
+  "performance": "Medium"
+}, {
+  "TA_gender": "female",
+  "title": "Lecturer",
+  "semister": "Elective",
+  "category": "Summer",
+  "size": "Small",
+  "performance": "Medium"
+}, {
+  "TA_gender": "female",
+  "title": "Professor",
+  "semister": "Elective",
+  "category": "Summer",
+  "size": "Medium",
+  "performance": "Medium"
+}, {
+  "TA_gender": "female",
+  "title": "Associate Professor",
+  "semister": "Elective",
+  "category": "Summer",
+  "size": "Medium",
+  "performance": "Medium"
+}, {
+  "TA_gender": "male",
+  "title": "Associate Professor",
+  "semister": "Elective",
+  "category": "Regular",
+  "size": "Medium",
+  "performance": "Medium"
+}, {
+  "TA_gender": "female",
+  "title": "Lecturer",
+  "semister": "Compulsory",
+  "category": "Summer",
+  "size": "Medium",
+  "performance": "Medium"
+}, {
+  "TA_gender": "female",
+  "title": "Associate Professor",
+  "semister": "Compulsory",
+  "category": "Summer",
+  "size": "Small",
+  "performance": "Medium"
+}, {
+  "TA_gender": "female",
+  "title": "Associate Professor",
+  "semister": "Compulsory",
+  "category": "Summer",
+  "size": "Small",
+  "performance": "Medium"
+}, {
+  "TA_gender": "female",
+  "title": "Lecturer",
+  "semister": "Compulsory",
+  "category": "Summer",
+  "size": "Small",
+  "performance": "Medium"
+}, {
+  "TA_gender": "female",
+  "title": "Lecturer",
+  "semister": "Elective",
+  "category": "Summer",
+  "size": "Large",
+  "performance": "Medium"
+}, {
+  "TA_gender": "male",
+  "title": "Lecturer",
+  "semister": "Elective",
+  "category": "Regular",
+  "size": "Medium",
+  "performance": "Low"
+}, {
+  "TA_gender": "female",
+  "title": "Professor",
+  "semister": "Elective",
+  "category": "Regular",
+  "size": "Large",
+  "performance": "Low"
+}, {
+  "TA_gender": "male",
+  "title": "Lecturer",
+  "semister": "Elective",
+  "category": "Summer",
+  "size": "Medium",
+  "performance": "Low"
+}, {
+  "TA_gender": "male",
+  "title": "Lecturer",
+  "semister": "Compulsory",
+  "category": "Summer",
+  "size": "Small",
+  "performance": "Low"
+}, {
+  "TA_gender": "female",
+  "title": "Associate Professor",
+  "semister": "Elective",
+  "category": "Summer",
+  "size": "Medium",
+  "performance": "Low"
+}, {
+  "TA_gender": "female",
+  "title": "Lecturer",
+  "semister": "Elective",
+  "category": "Regular",
+  "size": "Large",
+  "performance": "Low"
+}, {
+  "TA_gender": "female",
+  "title": "Professor",
+  "semister": "Elective",
+  "category": "Summer",
+  "size": "Medium",
+  "performance": "Low"
+}, {
+  "TA_gender": "female",
+  "title": "Associate Professor",
+  "semister": "Elective",
+  "category": "Summer",
+  "size": "Small",
+  "performance": "Low"
+}, {
+  "TA_gender": "male",
+  "title": "Associate Professor",
+  "semister": "Elective",
+  "category": "Summer",
+  "size": "Medium",
+  "performance": "Low"
+}, {
+  "TA_gender": "female",
+  "title": "Professor",
+  "semister": "Elective",
+  "category": "Regular",
+  "size": "Large",
+  "performance": "Low"
+}, {
+  "TA_gender": "female",
+  "title": "Associate Professor",
+  "semister": "Compulsory",
+  "category": "Summer",
+  "size": "Small",
+  "performance": "Low"
+}, {
+  "TA_gender": "female",
+  "title": "Associate Professor",
+  "semister": "Elective",
+  "category": "Summer",
+  "size": "Small",
+  "performance": "Low"
+}, {
+  "TA_gender": "female",
+  "title": "Professor",
+  "semister": "Elective",
+  "category": "Summer",
+  "size": "Large",
+  "performance": "Low"
+}, {
+  "TA_gender": "female",
+  "title": "Professor",
+  "semister": "Elective",
+  "category": "Summer",
+  "size": "Small",
+  "performance": "Low"
+}, {
+  "TA_gender": "female",
+  "title": "Professor",
+  "semister": "Elective",
+  "category": "Summer",
+  "size": "Small",
+  "performance": "High"
+}, {
+  "TA_gender": "female",
+  "title": "Professor",
+  "semister": "Elective",
+  "category": "Summer",
+  "size": "Medium",
+  "performance": "High"
+}, {
+  "TA_gender": "female",
+  "title": "Associate Professor",
+  "semister": "Elective",
+  "category": "Summer",
+  "size": "Medium",
+  "performance": "High"
+}, {
+  "TA_gender": "female",
+  "title": "Associate Professor",
+  "semister": "Elective",
+  "category": "Summer",
+  "size": "Medium",
+  "performance": "High"
+}, {
+  "TA_gender": "female",
+  "title": "Associate Professor",
+  "semister": "Elective",
+  "category": "Regular",
+  "size": "Medium",
+  "performance": "High"
+}, {
+  "TA_gender": "female",
+  "title": "Associate Professor",
+  "semister": "Elective",
+  "category": "Summer",
+  "size": "Small",
+  "performance": "High"
+}, {
+  "TA_gender": "female",
+  "title": "Associate Professor",
+  "semister": "Elective",
+  "category": "Summer",
+  "size": "Small",
+  "performance": "High"
+}, {
+  "TA_gender": "female",
+  "title": "Associate Professor",
+  "semister": "Elective",
+  "category": "Summer",
+  "size": "Large",
+  "performance": "High"
+}, {
+  "TA_gender": "female",
+  "title": "Lecturer",
+  "semister": "Elective",
+  "category": "Summer",
+  "size": "Medium",
+  "performance": "High"
+}, {
+  "TA_gender": "female",
+  "title": "Associate Professor",
+  "semister": "Elective",
+  "category": "Regular",
+  "size": "Medium",
+  "performance": "High"
+}, {
+  "TA_gender": "female",
+  "title": "Professor",
+  "semister": "Elective",
+  "category": "Summer",
+  "size": "Medium",
+  "performance": "High"
+}, {
+  "TA_gender": "female",
+  "title": "Associate Professor",
+  "semister": "Elective",
+  "category": "Summer",
+  "size": "Medium",
+  "performance": "High"
+}, {
+  "TA_gender": "female",
+  "title": "Lecturer",
+  "semister": "Elective",
+  "category": "Summer",
+  "size": "Small",
+  "performance": "High"
+}, {
+  "TA_gender": "female",
+  "title": "Lecturer",
+  "semister": "Elective",
+  "category": "Summer",
+  "size": "Large",
+  "performance": "High"
+}, {
+  "TA_gender": "female",
+  "title": "Professor",
+  "semister": "Compulsory",
+  "category": "Summer",
+  "size": "Small",
+  "performance": "Medium"
+}, {
+  "TA_gender": "female",
+  "title": "Associate Professor",
+  "semister": "Elective",
+  "category": "Summer",
+  "size": "Medium",
+  "performance": "Medium"
+}, {
+  "TA_gender": "female",
+  "title": "Lecturer",
+  "semister": "Elective",
+  "category": "Summer",
+  "size": "Small",
+  "performance": "Medium"
+}, {
+  "TA_gender": "female",
+  "title": "Professor",
+  "semister": "Elective",
+  "category": "Summer",
+  "size": "Medium",
+  "performance": "Medium"
+}, {
+  "TA_gender": "female",
+  "title": "Associate Professor",
+  "semister": "Elective",
+  "category": "Summer",
+  "size": "Medium",
+  "performance": "Medium"
+}, {
+  "TA_gender": "male",
+  "title": "Associate Professor",
+  "semister": "Elective",
+  "category": "Regular",
+  "size": "Medium",
+  "performance": "Medium"
+}, {
+  "TA_gender": "female",
+  "title": "Lecturer",
+  "semister": "Compulsory",
+  "category": "Summer",
+  "size": "Medium",
+  "performance": "Medium"
+}, {
+  "TA_gender": "female",
+  "title": "Associate Professor",
+  "semister": "Compulsory",
+  "category": "Summer",
+  "size": "Small",
+  "performance": "Medium"
+}, {
+  "TA_gender": "female",
+  "title": "Associate Professor",
+  "semister": "Compulsory",
+  "category": "Summer",
+  "size": "Small",
+  "performance": "Medium"
+}, {
+  "TA_gender": "female",
+  "title": "Lecturer",
+  "semister": "Compulsory",
+  "category": "Summer",
+  "size": "Small",
+  "performance": "Medium"
+}, {
+  "TA_gender": "female",
+  "title": "Lecturer",
+  "semister": "Elective",
+  "category": "Summer",
+  "size": "Large",
+  "performance": "Medium"
+}, {
+  "TA_gender": "male",
+  "title": "Lecturer",
+  "semister": "Elective",
+  "category": "Regular",
+  "size": "Medium",
+  "performance": "Low"
+}, {
+  "TA_gender": "male",
+  "title": "Associate Professor",
+  "semister": "Elective",
+  "category": "Regular",
+  "size": "Large",
+  "performance": "Low"
+}, {
+  "TA_gender": "female",
+  "title": "Associate Professor",
+  "semister": "Elective",
+  "category": "Summer",
+  "size": "Large",
+  "performance": "Low"
+}, {
+  "TA_gender": "female",
+  "title": "Professor",
+  "semister": "Compulsory",
+  "category": "Summer",
+  "size": "Small",
+  "performance": "Low"
+}, {
+  "TA_gender": "female",
+  "title": "Associate Professor",
+  "semister": "Elective",
+  "category": "Regular",
+  "size": "Large",
+  "performance": "Low"
+}, {
+  "TA_gender": "female",
+  "title": "Professor",
+  "semister": "Elective",
+  "category": "Summer",
+  "size": "Medium",
+  "performance": "Low"
+}, {
+  "TA_gender": "male",
+  "title": "Associate Professor",
+  "semister": "Elective",
+  "category": "Summer",
+  "size": "Small",
+  "performance": "Low"
+}, {
+  "TA_gender": "female",
+  "title": "Associate Professor",
+  "semister": "Elective",
+  "category": "Regular",
+  "size": "Large",
+  "performance": "Low"
+}, {
+  "TA_gender": "female",
+  "title": "Lecturer",
+  "semister": "Elective",
+  "category": "Regular",
+  "size": "Large",
+  "performance": "Low"
+}, {
+  "TA_gender": "male",
+  "title": "Lecturer",
+  "semister": "Elective",
+  "category": "Regular",
+  "size": "Large",
+  "performance": "Low"
+}, {
+  "TA_gender": "male",
+  "title": "Lecturer",
+  "semister": "Elective",
+  "category": "Summer",
+  "size": "Large",
+  "performance": "Low"
+}, {
+  "TA_gender": "female",
+  "title": "Lecturer",
+  "semister": "Compulsory",
+  "category": "Summer",
+  "size": "Large",
+  "performance": "Low"
+}, {
+  "TA_gender": "male",
+  "title": "Lecturer",
+  "semister": "Elective",
+  "category": "Summer",
+  "size": "Medium",
+  "performance": "Low"
+}, {
+  "TA_gender": "female",
+  "title": "Professor",
+  "semister": "Elective",
+  "category": "Summer",
+  "size": "Small",
+  "performance": "Low"
+}, {
+  "TA_gender": "female",
+  "title": "Professor",
+  "semister": "Elective",
+  "category": "Summer",
+  "size": "Medium",
+  "performance": "Low"
+}, {
+  "TA_gender": "male",
+  "title": "Lecturer",
+  "semister": "Elective",
+  "category": "Summer",
+  "size": "Medium",
+  "performance": "Low"
+}, {
+  "TA_gender": "female",
+  "title": "Associate Professor",
+  "semister": "Elective",
+  "category": "Summer",
+  "size": "Medium",
+  "performance": "Low"
+}, {
+  "TA_gender": "female",
+  "title": "Associate Professor",
+  "semister": "Compulsory",
+  "category": "Summer",
+  "size": "Small",
+  "performance": "High"
+}, {
+  "TA_gender": "male",
+  "title": "Lecturer",
+  "semister": "Compulsory",
+  "category": "Summer",
+  "size": "Medium",
+  "performance": "High"
+}, {
+  "TA_gender": "male",
+  "title": "Associate Professor",
+  "semister": "Elective",
+  "category": "Summer",
+  "size": "Small",
+  "performance": "High"
+}, {
+  "TA_gender": "female",
+  "title": "Professor",
+  "semister": "Compulsory",
+  "category": "Summer",
+  "size": "Large",
+  "performance": "High"
+}, {
+  "TA_gender": "female",
+  "title": "Associate Professor",
+  "semister": "Elective",
+  "category": "Summer",
+  "size": "Large",
+  "performance": "High"
+}, {
+  "TA_gender": "male",
+  "title": "Professor",
+  "semister": "Elective",
+  "category": "Summer",
+  "size": "Large",
+  "performance": "High"
+}, {
+  "TA_gender": "female",
+  "title": "Lecturer",
+  "semister": "Elective",
+  "category": "Regular",
+  "size": "Large",
+  "performance": "High"
+}, {
+  "TA_gender": "male",
+  "title": "Lecturer",
+  "semister": "Elective",
+  "category": "Regular",
+  "size": "Large",
+  "performance": "High"
+}, {
+  "TA_gender": "female",
+  "title": "Professor",
+  "semister": "Elective",
+  "category": "Summer",
+  "size": "Medium",
+  "performance": "High"
+}, {
+  "TA_gender": "male",
+  "title": "Associate Professor",
+  "semister": "Elective",
+  "category": "Summer",
+  "size": "Small",
+  "performance": "High"
+}, {
+  "TA_gender": "female",
+  "title": "Lecturer",
+  "semister": "Compulsory",
+  "category": "Summer",
+  "size": "Medium",
+  "performance": "High"
+}, {
+  "TA_gender": "female",
+  "title": "Lecturer",
+  "semister": "Elective",
+  "category": "Summer",
+  "size": "Medium",
+  "performance": "High"
+}, {
+  "TA_gender": "female",
+  "title": "Lecturer",
+  "semister": "Compulsory",
+  "category": "Summer",
+  "size": "Large",
+  "performance": "Medium"
+}, {
+  "TA_gender": "male",
+  "title": "Lecturer",
+  "semister": "Elective",
+  "category": "Summer",
+  "size": "Large",
+  "performance": "Medium"
+}, {
+  "TA_gender": "female",
+  "title": "Associate Professor",
+  "semister": "Elective",
+  "category": "Summer",
+  "size": "Large",
+  "performance": "Medium"
+}, {
+  "TA_gender": "female",
+  "title": "Associate Professor",
+  "semister": "Elective",
+  "category": "Summer",
+  "size": "Medium",
+  "performance": "Medium"
+}, {
+  "TA_gender": "female",
+  "title": "Associate Professor",
+  "semister": "Elective",
+  "category": "Summer",
+  "size": "Small",
+  "performance": "Medium"
+}, {
+  "TA_gender": "male",
+  "title": "Lecturer",
+  "semister": "Elective",
+  "category": "Summer",
+  "size": "Large",
+  "performance": "Medium"
+}, {
+  "TA_gender": "female",
+  "title": "Lecturer",
+  "semister": "Elective",
+  "category": "Summer",
+  "size": "Small",
+  "performance": "Medium"
+}, {
+  "TA_gender": "female",
+  "title": "Professor",
+  "semister": "Elective",
+  "category": "Summer",
+  "size": "Medium",
+  "performance": "Medium"
+}, {
+  "TA_gender": "female",
+  "title": "Lecturer",
+  "semister": "Elective",
+  "category": "Summer",
+  "size": "Large",
+  "performance": "Medium"
+}, {
+  "TA_gender": "female",
+  "title": "Professor",
+  "semister": "Elective",
+  "category": "Summer",
+  "size": "Small",
+  "performance": "Medium"
+}, {
+  "TA_gender": "female",
+  "title": "Lecturer",
+  "semister": "Elective",
+  "category": "Summer",
+  "size": "Small",
+  "performance": "Medium"
+}, {
+  "TA_gender": "female",
+  "title": "Lecturer",
+  "semister": "Elective",
+  "category": "Summer",
+  "size": "Large",
+  "performance": "Medium"
+}, {
+  "TA_gender": "female",
+  "title": "Professor",
+  "semister": "Elective",
+  "category": "Summer",
+  "size": "Medium",
+  "performance": "Medium"
+}, {
+  "TA_gender": "female",
+  "title": "Lecturer",
+  "semister": "Compulsory",
+  "category": "Summer",
+  "size": "Small",
+  "performance": "Medium"
+}, {
+  "TA_gender": "female",
+  "title": "Associate Professor",
+  "semister": "Compulsory",
+  "category": "Summer",
+  "size": "Large",
+  "performance": "Low"
+}, {
+  "TA_gender": "female",
+  "title": "Professor",
+  "semister": "Compulsory",
+  "category": "Summer",
+  "size": "Medium",
+  "performance": "Low"
+}, {
+  "TA_gender": "male",
+  "title": "Associate Professor",
+  "semister": "Elective",
+  "category": "Summer",
+  "size": "Small",
+  "performance": "Low"
+}, {
+  "TA_gender": "female",
+  "title": "Lecturer",
+  "semister": "Elective",
+  "category": "Summer",
+  "size": "Small",
+  "performance": "Low"
+}, {
+  "TA_gender": "male",
+  "title": "Associate Professor",
+  "semister": "Elective",
+  "category": "Summer",
+  "size": "Small",
+  "performance": "Low"
+}, {
+  "TA_gender": "male",
+  "title": "Lecturer",
+  "semister": "Elective",
+  "category": "Summer",
+  "size": "Large",
+  "performance": "Low"
+}, {
+  "TA_gender": "female",
+  "title": "Lecturer",
+  "semister": "Compulsory",
+  "category": "Summer",
+  "size": "Small",
+  "performance": "Low"
+}, {
+  "TA_gender": "female",
+  "title": "Associate Professor",
+  "semister": "Elective",
+  "category": "Summer",
+  "size": "Large",
+  "performance": "High"
+}, {
+  "TA_gender": "female",
+  "title": "Professor",
+  "semister": "Compulsory",
+  "category": "Summer",
+  "size": "Medium",
+  "performance": "High"
+}, {
+  "TA_gender": "female",
+  "title": "Lecturer",
+  "semister": "Elective",
+  "category": "Summer",
+  "size": "Small",
+  "performance": "High"
+}, {
+  "TA_gender": "male",
+  "title": "Lecturer",
+  "semister": "Compulsory",
+  "category": "Summer",
+  "size": "Large",
+  "performance": "High"
+}, {
+  "TA_gender": "female",
+  "title": "Lecturer",
+  "semister": "Elective",
+  "category": "Summer",
+  "size": "Large",
+  "performance": "High"
+}, {
+  "TA_gender": "female",
+  "title": "Professor",
+  "semister": "Compulsory",
+  "category": "Summer",
+  "size": "Small",
+  "performance": "High"
+}, {
+  "TA_gender": "female",
+  "title": "Professor",
+  "semister": "Compulsory",
+  "category": "Summer",
+  "size": "Large",
+  "performance": "High"
+}, {
+  "TA_gender": "female",
+  "title": "Professor",
+  "semister": "Compulsory",
+  "category": "Summer",
+  "size": "Small",
+  "performance": "High"
+}, {
+  "TA_gender": "female",
+  "title": "Professor",
+  "semister": "Compulsory",
+  "category": "Summer",
+  "size": "Large",
+  "performance": "High"
+}, {
+  "TA_gender": "female",
+  "title": "Associate Professor",
+  "semister": "Elective",
+  "category": "Summer",
+  "size": "Small",
+  "performance": "High"
+}, {
+  "TA_gender": "female",
+  "title": "Associate Professor",
+  "semister": "Elective",
+  "category": "Summer",
+  "size": "Small",
+  "performance": "Medium"
+}, {
+  "TA_gender": "female",
+  "title": "Associate Professor",
+  "semister": "Elective",
+  "category": "Summer",
+  "size": "Medium",
+  "performance": "Medium"
+}, {
+  "TA_gender": "female",
+  "title": "Lecturer",
+  "semister": "Elective",
+  "category": "Summer",
+  "size": "Large",
+  "performance": "Medium"
+}, {
+  "TA_gender": "female",
+  "title": "Lecturer",
+  "semister": "Compulsory",
+  "category": "Summer",
+  "size": "Large",
+  "performance": "Medium"
+}, {
+  "TA_gender": "female",
+  "title": "Associate Professor",
+  "semister": "Compulsory",
+  "category": "Summer",
+  "size": "Small",
+  "performance": "Medium"
+}, {
+  "TA_gender": "female",
+  "title": "Professor",
+  "semister": "Compulsory",
+  "category": "Summer",
+  "size": "Medium",
+  "performance": "Medium"
+}, {
+  "TA_gender": "female",
+  "title": "Associate Professor",
+  "semister": "Compulsory",
+  "category": "Summer",
+  "size": "Medium",
+  "performance": "Medium"
+}, {
+  "TA_gender": "female",
+  "title": "Lecturer",
+  "semister": "Elective",
+  "category": "Summer",
+  "size": "Small",
+  "performance": "Medium"
+}, {
+  "TA_gender": "female",
+  "title": "Professor",
+  "semister": "Compulsory",
+  "category": "Summer",
+  "size": "Large",
+  "performance": "Medium"
+}, {
+  "TA_gender": "female",
+  "title": "Associate Professor",
+  "semister": "Elective",
+  "category": "Summer",
+  "size": "Small",
+  "performance": "Medium"
+}, {
+  "TA_gender": "male",
+  "title": "Professor",
+  "semister": "Elective",
+  "category": "Summer",
+  "size": "Small",
+  "performance": "Medium"
+}, {
+  "TA_gender": "female",
+  "title": "Associate Professor",
+  "semister": "Elective",
+  "category": "Summer",
+  "size": "Small",
+  "performance": "Medium"
+}, {
+  "TA_gender": "female",
+  "title": "Lecturer",
+  "semister": "Compulsory",
+  "category": "Summer",
+  "size": "Small",
+  "performance": "Medium"
+}]
