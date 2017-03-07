@@ -59,3 +59,5 @@ json格式, 共包括150组数据
 
 
 ## 作业2：贝叶斯分类器的应用
+
+利用贝叶斯分类器对文本进行分类，数据集采用<http://www.cs.cmu.edu/afs/cs/project/theo-11/www/naive-bayes.html>
